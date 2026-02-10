@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Unbecoming",
+  "base_artist": "STARSET",
+  "createdAt": "2026-02-10T22:41:16.613721Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Unbecoming",
+      "artist": "STARSET",
+      "has_synced": true,
+      "path": "select/01_Unbecoming_STARSET.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Very Unbecoming",
+      "artist": "Lorraine Feather",
+      "has_synced": false,
+      "path": "select/02_Very_Unbecoming_Lorraine_Feather.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Unbecoming",
+      "artist": "STARSET",
+      "has_synced": true,
+      "path": "select/03_Unbecoming_STARSET.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Behavior Unbecoming",
+      "artist": "We Are Scientists",
+      "has_synced": true,
+      "path": "select/04_Behavior_Unbecoming_We_Are_Scientists.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Unbecoming",
+      "artist": "Ragana",
+      "has_synced": false,
+      "path": "select/05_Unbecoming_Ragana.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Conduct Unbecoming",
+      "artist": "Conservative Military Image",
+      "has_synced": true,
+      "path": "select/06_Conduct_Unbecoming_Conservative_Military_Image.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Unbecoming",
+      "artist": "Starset",
+      "has_synced": true,
+      "path": "select/07_Unbecoming_Starset.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Becoming Unbecoming",
+      "artist": "Leanna Firestone",
+      "has_synced": true,
+      "path": "select/08_Becoming_Unbecoming_Leanna_Firestone.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Unbecoming",
+      "artist": "Autistic Boys Money Clan",
+      "has_synced": true,
+      "path": "select/09_Unbecoming_Autistic_Boys_Money_Clan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Realm of Unbecoming",
+      "artist": "Drawn into Descent",
+      "has_synced": false,
+      "path": "select/10_The_Realm_of_Unbecoming_Drawn_into_Descent.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Very Unbecoming",
+      "artist": "Feather Lorraine",
+      "has_synced": true,
+      "path": "select/11_Very_Unbecoming_Feather_Lorraine.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Unbecoming",
+      "artist": "Oreophilum, Hatsune Miku, Megurine Luka",
+      "has_synced": true,
+      "path": "select/12_The_Unbecoming_Oreophilum,_Hatsune_Miku,_Megurine_Luka.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Unbecoming (Paused)",
+      "artist": "Autistic Boys Money Clan",
+      "has_synced": true,
+      "path": "select/13_Unbecoming_(Paused)_Autistic_Boys_Money_Clan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Unbecoming",
+      "artist": "Tenille Arts",
+      "has_synced": true,
+      "path": "select/14_Unbecoming_Tenille_Arts.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "unbecoming",
+      "artist": "Skele",
+      "has_synced": true,
+      "path": "select/15_unbecoming_Skele.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Unbecoming (Paused)",
+      "artist": "STARSET",
+      "has_synced": true,
+      "path": "select/16_Unbecoming_(Paused)_STARSET.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Unbecoming",
+      "artist": "STARSET",
+      "has_synced": false,
+      "path": "select/pl_01_Unbecoming_STARSET.txt"
+    }
+  ]
+}
